@@ -2,16 +2,13 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-Data Source
-Tools
-Data Cleaning and Preparation
-Data Import
-Table Creation
-Data Cleaning and Preparation
-Exploratory Data Analysis (EDA)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
 - [Data Analysis](#Data-Analysis)
-Data Visualization
-Results
+- [Data Visualization](#Data-Visualization)
+- [Results](#Results)
 
 
 ## Overview
