@@ -1,5 +1,19 @@
 # Global Air Pollution Analysis
 
+## Table of Contents
+- [Overview](#Overview)
+Data Source
+Tools
+Data Cleaning and Preparation
+Data Import
+Table Creation
+Data Cleaning and Preparation
+Exploratory Data Analysis (EDA)
+- [Data Analysis](#Data-Analysis)
+Data Visualization
+Results
+
+
 ## Overview
 
 This project analyzes historical air quality data from 2010 to 2017 for 240 countries, focusing on PM2.5 (fine particulate matter). The dataset, sourced from Kaggle, provides mean annual exposure levels of PM2.5 in micrograms per cubic meter. The goal of this analysis is to identify and visualize trends and patterns in global air pollution, highlighting variations in pollution levels across different countries and over time.
