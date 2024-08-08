@@ -139,6 +139,6 @@ The bar chart presents the average PM2.5 levels for each country across the year
 
 ### Additional Insights
 
-**Countries with Notable Decreases:** The analysis did not specifically identify countries with the largest decreases in PM2.5 levels, but such data could provide insights into successful air quality improvement initiatives.
+**Countries with Notable Decreases** - The analysis did not specifically identify countries with the largest decreases in PM2.5 levels, but such data could provide insights into successful air quality improvement initiatives.
 
-**Trends Over Time:** While the temporal trends highlight changes in air quality over time, future analysis could benefit from identifying specific factors contributing to significant year-to-year variations.
+**Trends Over Time** - While the temporal trends highlight changes in air quality over time, future analysis could benefit from identifying specific factors contributing to significant year-to-year variations.
