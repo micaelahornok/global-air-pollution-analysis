@@ -84,17 +84,11 @@ This query calculated the difference between the initial and final PM2.5 levels 
 ## Data Visualization
 After performing data cleaning and analysis using SQL, the results were imported into Tableau for interactive visualization. The following visualizations were created to provide insights into global PM2.5 levels:
 
-**Interactive Map:**
+**Interactive Map** - A map color-coded based on the average PM2.5 levels across different countries. This visualization allows for geographic comparison of air pollution levels.
 
-A map color-coded based on the average PM2.5 levels across different countries. This visualization allows for geographic comparison of air pollution levels.
+**Line Graph** - A line graph displaying the mean annual exposure PM2.5 levels for all countries from 2010 to 2017. This graph enables the comparison of trends over time across different countries.
 
-**Line Graph:**
-
-A line graph displaying the mean annual exposure PM2.5 levels for all countries from 2010 to 2017. This graph enables the comparison of trends over time across different countries.
-
-**Bar Chart:**
-
-A bar chart showing the average PM2.5 levels for each country between 2010-2017. This chart provides a summary view of the average pollution levels for each country across the years studied.
+**Bar Chart** - A bar chart showing the average PM2.5 levels for each country between 2010-2017. This chart provides a summary view of the average pollution levels for each country across the years studied.
 
 These visualizations help in understanding the spatial and temporal distribution of air pollution, and facilitate the comparison of PM2.5 levels across countries and over time.
 
