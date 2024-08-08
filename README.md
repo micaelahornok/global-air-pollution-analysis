@@ -93,15 +93,19 @@ ORDER BY PM_Increase DESC
 This query calculated the difference between the initial and final PM2.5 levels for each country, highlighting those with the highest increases in pollution over the study period.
 
 ## Data Visualization
-After performing data cleaning and analysis using SQL, the results were imported into Tableau for interactive visualization. The following visualizations were created to provide insights into global PM2.5 levels:
+After performing data cleaning and analysis using SQL, the results were imported into Tableau to create an interactive visualization. 
 
-**Interactive Map** - A map color-coded based on the average PM2.5 levels across different countries. This visualization allows for geographic comparison of air pollution levels.
+The following visualizations were created to provide insights into global PM2.5 levels:
 
-**Line Graph** - A line graph displaying the mean annual exposure PM2.5 levels for all countries from 2010 to 2017. This graph enables the comparison of trends over time across different countries.
+- **Interactive Map** - A map color-coded based on the average PM2.5 levels across different countries. This visualization allows for geographic comparison of air pollution levels.
 
-**Bar Chart** - A bar chart showing the average PM2.5 levels for each country between 2010-2017. This chart provides a summary view of the average pollution levels for each country across the years studied.
+- **Line Graph** - A line graph displaying the mean annual exposure PM2.5 levels for all countries from 2010 to 2017. This graph enables the comparison of trends over time across different countries.
+
+- **Bar Chart** - A bar chart showing the average PM2.5 levels for each country between 2010-2017. This chart provides a summary view of the average pollution levels for each country across the years studied.
 
 These visualizations help in understanding the spatial and temporal distribution of air pollution, and facilitate the comparison of PM2.5 levels across countries and over time.
+
+Click [here](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view the dashboard on Tableau.
 
 ## Results
 The data analysis and visualization reveal several key insights into global PM2.5 pollution levels from 2010 to 2017:
@@ -138,15 +142,15 @@ These countries had the highest average PM2.5 levels, reflecting more severe air
 
 ### Geographic Distribution
 
-An interactive map visualized the geographic distribution of PM2.5 levels across different countries. This map, color-coded based on average PM2.5 levels, facilitated a geographic comparison of air pollution and highlighted regions with severe air quality issues.
+An interactive map visualized the geographic distribution of PM2.5 levels across different countries. This map, color-coded based on average PM2.5 levels, facilitated a geographic comparison of air pollution and highlighted regions with severe air quality issues. Click [here](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view the dashboard on Tableau.
 
 ### Temporal Trends
 
-The line graph displays the mean annual PM2.5 levels for all countries from 2010 to 2017. This visualization enables comparison of pollution trends across different countries, highlighting how air quality has changed over time and identifying any patterns of increase or decrease in pollution levels.
+The line graph displays the mean annual PM2.5 levels for all countries from 2010 to 2017. This visualization enables comparison of pollution trends across different countries, highlighting how air quality has changed over time and identifying any patterns of increase or decrease in pollution levels.  Click [here](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view the dashboard on Tableau.
 
 ### Annual Averages
 
-The bar chart presents the average PM2.5 levels for each country across the years 2010 to 2017. This chart provides a summary view of the average annual air pollution levels for each country, allowing for an easy comparison of overall pollution levels between countries on a yearly basis.
+The bar chart presents the average PM2.5 levels for each country across the years 2010 to 2017. This chart provides a summary view of the average annual air pollution levels for each country, allowing for an easy comparison of overall pollution levels between countries on a yearly basis. Click [here](https://public.tableau.com/views/InteractivePM2_5AirPollutionTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view the dashboard on Tableau.
 
 ### Additional Insights
 
